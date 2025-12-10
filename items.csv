@@ -1,0 +1,8 @@
+type,title,author,volume,license,expiry
+Book,El_Principe,Nicolas_Machiavelo,,,
+Book,Cien_Años_de_Soledad,Gabriel_Garcia_Marquez,,,
+Book,Fundacion,Isaac_Asimov,,,
+Journal,Nature,,785,,
+Journal,Science,,901,,
+Ebook,,,,"LIC-12345","2025-12-31"
+Ebook,,,,"LIC-99999","2024-10-10"
